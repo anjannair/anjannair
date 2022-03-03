@@ -1,6 +1,6 @@
 ### Aloha 👋
 
-<img align="right" src="https://media4.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" alt="hello" width="50%" height="40%">
+<img align="right" src="https://media4.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" alt="hello" width="40%" height="40%">
 
 [Anjan Nair](https://anjannair.xyz/)
 
@@ -10,6 +10,8 @@
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjannair)
 
+<br>
+<br>
 <br>
 <h3 align="center"><img width="30vw" src="https://cdn.discordapp.com/emojis/916659833204248586.gif?size=48&quality=lossless"/> Telecommunication Engineer, Tech Enthusiast</h3>
 
@@ -27,4 +29,3 @@ Apart from programming I participate in robotics competitions! <img src="https:/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjannair&show_icons=true&locale=en" alt="anjannair" /></p>
 
-# anjannair
