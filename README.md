@@ -1,6 +1,6 @@
 ### Aloha 👋
 
-<p align="center"><a href="https://anjann.dev/"><img width="100%" alt="About Anjan Nair" src="img/banner.png" /></a></p>
+<p align="center"><a href="https://anjann.dev/"><img alt="About Anjan Nair" src="img/banner.png" /></a></p>
 <br>
 <br>
 <br>
