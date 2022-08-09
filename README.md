@@ -18,5 +18,5 @@ Apart from programming I participate in robotics competitions! <img src="https:/
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjannair&show_icons=true&locale=en" alt="anjannair" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anjannair&show_icons=true&locale=en" alt="anjannair" /></p>
 
