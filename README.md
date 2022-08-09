@@ -1,19 +1,10 @@
 ### Aloha 👋
 
-<img align="right" src="https://media4.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" alt="hello" width="40%" height="40%">
-
-[Anjan Nair](https://anjannair.xyz/)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjannair/) 
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whereransome@gmail.com)
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjannair)
-
+<p align="center"><a href="https://anjann.dev/"><img width="100%" alt="About Anjan Nair" src="img/banner.png" /></a></p>
 <br>
 <br>
 <br>
-<h3 align="center"><img width="30vw" src="https://cdn.discordapp.com/emojis/916659833204248586.gif?size=48&quality=lossless"/> Telecommunication Engineer, Tech Enthusiast</h3>
+<h3 align="center"><img width="10vw" src="https://cdn.discordapp.com/emojis/916659833204248586.gif?size=48&quality=lossless"/> Telecommunication Engineer, Tech Enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjannair&color=blueviolet" alt="anjannair" /> </p>
