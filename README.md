@@ -10,13 +10,15 @@
 src="https://img.shields.io/twitter/follow/anjannair?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px"
 /></a><a href="https://github.com/anjannair" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anjannair?logo=github&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" /></a>
+<a href="https://github.com/anjannair" target="_blank" rel="noreferrer">
 <img src="https://komarev.com/ghpvc/?username=anjannair&color=blueviolet" alt="anjannair" />
+</a>
 
 I am Anjan, a passionate tech enthusiast. Pursuing my B.Tech in Electronics and Telecommunication. My primary interest has always been open source and contributing for open source.
 
 Currently I am the **Cloud Lead** for [GDSC](https://gdsc.community.dev/atharva-college-of-engineering-mumbai/) in my college. You'll find me actively participating in discussions, contributing to open source projects and attending meetups.
 
-DSA in Java is what I am aiming to complete by the end of this year.Apart from programming I participate in robotics competitions!
+DSA in Java is what I am aiming to complete by the end of this year. Apart from programming I participate in robotics competitions!
 
 If we do connect it would be over songs and movies/shows.
 
