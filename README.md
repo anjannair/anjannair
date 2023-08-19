@@ -16,10 +16,6 @@ src="https://img.shields.io/github/followers/anjannair?logo=github&style=for-the
 
 I am Anjan, a passionate tech enthusiast. Pursuing my B.Tech in Electronics and Telecommunication. My primary interest has always been open source and contributing for open source.
 
-Currently I am the **Cloud Lead** for [GDSC](https://gdsc.community.dev/atharva-college-of-engineering-mumbai/) in my college. You'll find me actively participating in discussions, contributing to open source projects and attending meetups.
-
-DSA in Java is what I am aiming to complete by the end of this year. Apart from programming I participate in robotics competitions!
-
 If we do connect it would be over songs and movies/shows.
 
 - Contact mail - anjannair@pm.me
